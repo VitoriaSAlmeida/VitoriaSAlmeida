@@ -1,8 +1,8 @@
  ## Opa, bão?
 
-- 🌱 Atualmente estudo Phyton e AWS;
+- 🌱 Atualmente estudo Phyton, CSS, HTML, Java e JavaScripst;
 - 😄 Ela/Dela;
-- ⚡ 6° Periodo em Engenharia da Computação;
+- ⚡ 8° Periodo em Engenharia da Computação;
 - 🐱‍👤 Universidade Metodista de São Paulo;
 
 
