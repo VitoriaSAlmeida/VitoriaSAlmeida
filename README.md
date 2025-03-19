@@ -2,8 +2,8 @@
 
 - 🌱 Atualmente estudo Phyton, CSS, HTML, Java e JavaScripst;
 - 😄 Ela/Dela;
-- ⚡ 8° Periodo em Engenharia da Computação;
-- 🐱‍👤 Universidade Metodista de São Paulo;
+- ⚡Engenharia da Computação;
+- 🐱‍👤 Universidade São Judas Tadeu;
 
 
 <div>
