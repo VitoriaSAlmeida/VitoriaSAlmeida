@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVlcGtzY3o3cXJleTd0MTBmemxocjh5Ymt6M3FjeHdwdzd4dGNldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W9MrfVxE4s2Zi/giphy.gif"  />
-
-###
-
 <h2 align="left">Stats</h2>
 
 ###
